@@ -18,7 +18,7 @@ namespace Test_Github
 			
 			// TODO: Implement Functionality Here
 			
-			Console.Write("Press any key to continue . . . ");
+			Console.Write("Press any key to continue . . . Testing");
 			Console.ReadKey(true);
 		}
 	}
